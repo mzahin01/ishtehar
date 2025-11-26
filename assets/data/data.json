@@ -3,222 +3,259 @@
         {
             "name": "Ziaur Rahman",
             "period": "1975-1981",
+            "asset": "",
             "policies": [
                 {
                     "category": "Economy",
                     "title": "Industrial Liberalization",
                     "details": "Shifted Bangladesh from a nationalized economy to a private-sector-driven model.",
-                    "impact": "Kickstarted long-term industrial growth and enabled private sector expansion."
+                    "impact": "Kickstarted long-term industrial growth and enabled private sector expansion.",
+                    "asset": ""
                 },
                 {
                     "category": "Economy",
                     "title": "RMG Foundation",
                     "details": "Enabled Daewoo–Desh partnership and introduced export-led growth policies.",
-                    "impact": "Created the modern garments sector employing millions today."
+                    "impact": "Created the modern garments sector employing millions today.",
+                    "asset": ""
                 },
                 {
                     "category": "Economy",
                     "title": "Agricultural Deregulation",
                     "details": "Ended state monopoly over seeds, fertilizers, and agro-equipment.",
-                    "impact": "Massively increased crop production; supported food security."
+                    "impact": "Massively increased crop production; supported food security.",
+                    "asset": ""
                 },
                 {
                     "category": "Governance and Democracy",
                     "title": "Multi-Party Politics Restoration",
                     "details": "Reintroduced political pluralism after years of one-party structure.",
-                    "impact": "Revived competitive democratic culture in Bangladesh."
+                    "impact": "Revived competitive democratic culture in Bangladesh.",
+                    "asset": ""
                 },
                 {
                     "category": "Governance and Democracy",
                     "title": "Fifth Amendment",
                     "details": "Legalized all administrative actions taken since 1975.",
-                    "impact": "Provided immediate stability but remained historically debated."
+                    "impact": "Provided immediate stability but remained historically debated.",
+                    "asset": ""
                 },
                 {
                     "category": "Governance and Democracy",
                     "title": "Local Government Strengthening",
                     "details": "Empowered Union Parishads and decentralized decision-making.",
-                    "impact": "Improved rural governance and service delivery."
+                    "impact": "Improved rural governance and service delivery.",
+                    "asset": ""
                 },
                 {
                     "category": "Foreign Policy",
                     "title": "Look East Doctrine",
                     "details": "Strengthened ties with China, Pakistan, Southeast Asia, and OIC.",
-                    "impact": "Diversified Bangladesh's geopolitical partnerships."
+                    "impact": "Diversified Bangladesh's geopolitical partnerships.",
+                    "asset": ""
                 },
                 {
                     "category": "Foreign Policy",
                     "title": "UN Peacekeeping Foundations",
                     "details": "Established the early institutional framework for future deployment.",
-                    "impact": "Enabled Bangladesh to become a leading UN peacekeeping force."
+                    "impact": "Enabled Bangladesh to become a leading UN peacekeeping force.",
+                    "asset": ""
                 },
                 {
                     "category": "Rural Development",
                     "title": "Integrated Rural Development Program",
                     "details": "Built canals, irrigation systems, rural roads, and embankments.",
-                    "impact": "Boosted rural productivity and incomes significantly."
+                    "impact": "Boosted rural productivity and incomes significantly.",
+                    "asset": ""
                 }
             ]
         },
         {
             "name": "Khaleda Zia",
             "period": "1991-1996",
+            "asset": "",
             "policies": [
                 {
                     "category": "Economy",
                     "title": "Macro Stabilization",
                     "details": "Implemented banking reforms and deficit reduction.",
-                    "impact": "Restored economic stability after political transition."
+                    "impact": "Restored economic stability after political transition.",
+                    "asset": ""
                 },
                 {
                     "category": "Economy",
                     "title": "Privatization Push",
                     "details": "Privatized loss-making SOEs and encouraged private banking.",
-                    "impact": "Improved efficiency and increased investment."
+                    "impact": "Improved efficiency and increased investment.",
+                    "asset": ""
                 },
                 {
                     "category": "Education",
                     "title": "Private University Act 1992",
                     "details": "Allowed establishment of private universities.",
-                    "impact": "Massive expansion of higher education nationwide."
+                    "impact": "Massive expansion of higher education nationwide.",
+                    "asset": ""
                 },
                 {
                     "category": "Education",
                     "title": "National University Establishment",
                     "details": "Centralized governance of affiliated colleges.",
-                    "impact": "Improved academic standardization across Bangladesh."
+                    "impact": "Improved academic standardization across Bangladesh.",
+                    "asset": ""
                 },
                 {
                     "category": "Energy and Electrification",
                     "title": "National Energy Policy 1996",
                     "details": "Bangladesh's first structured long-term energy roadmap.",
-                    "impact": "Guided future gas, power plants, and grid expansion."
+                    "impact": "Guided future gas, power plants, and grid expansion.",
+                    "asset": ""
                 },
                 {
                     "category": "Energy and Electrification",
                     "title": "Rural Electrification Expansion",
                     "details": "Strengthened REB cooperatives and improved distribution.",
-                    "impact": "Millions of households got electricity access."
+                    "impact": "Millions of households got electricity access.",
+                    "asset": ""
                 },
                 {
                     "category": "Infrastructure",
                     "title": "Roads and Bridges Development",
                     "details": "Expanded national highways and initiated major bridge groundwork.",
-                    "impact": "Strengthened trade routes and boosted rural mobility."
+                    "impact": "Strengthened trade routes and boosted rural mobility.",
+                    "asset": ""
                 },
                 {
                     "category": "Media and Communication",
                     "title": "Private TV Channel Framework",
                     "details": "Prepared regulatory framework for private TV channels.",
-                    "impact": "Opened the door for Bangladesh's media revolution."
+                    "impact": "Opened the door for Bangladesh's media revolution.",
+                    "asset": ""
                 },
                 {
                     "category": "Governance",
                     "title": "Twelfth Amendment 1991",
                     "details": "Restored parliamentary system of governance.",
-                    "impact": "Strengthened democratic institutions and accountability."
+                    "impact": "Strengthened democratic institutions and accountability.",
+                    "asset": ""
                 },
                 {
                     "category": "Disaster Management",
                     "title": "1991 Cyclone Rehabilitation",
                     "details": "Large-scale reconstruction and relief operations.",
-                    "impact": "Improved Bangladesh's disaster response capacity."
+                    "impact": "Improved Bangladesh's disaster response capacity.",
+                    "asset": ""
                 }
             ]
         },
         {
             "name": "Khaleda Zia",
             "period": "2001-2006",
+            "asset": "",
             "policies": [
                 {
                     "category": "Economy",
                     "title": "High Growth Era",
                     "details": "Bangladesh maintained 6%+ GDP growth.",
-                    "impact": "Built economic momentum for the next decade."
+                    "impact": "Built economic momentum for the next decade.",
+                    "asset": ""
                 },
                 {
                     "category": "Economy",
                     "title": "SME & Farm Credit Expansion",
                     "details": "Increased microcredit, SME loans, and rural finance.",
-                    "impact": "Boosted rural entrepreneurship and women's income."
+                    "impact": "Boosted rural entrepreneurship and women's income.",
+                    "asset": ""
                 },
                 {
                     "category": "ICT and Digitalization",
                     "title": "National ICT Policy 2002",
                     "details": "First comprehensive ICT roadmap for Bangladesh.",
-                    "impact": "Laid foundation for later Digital Bangladesh programs."
+                    "impact": "Laid foundation for later Digital Bangladesh programs.",
+                    "asset": ""
                 },
                 {
                     "category": "ICT and Digitalization",
                     "title": "Telecom Liberalization",
                     "details": "Expanded mobile operator licenses and reduced call costs.",
-                    "impact": "Triggered a telecom explosion across Bangladesh."
+                    "impact": "Triggered a telecom explosion across Bangladesh.",
+                    "asset": ""
                 },
                 {
                     "category": "ICT and Digitalization",
                     "title": "National Fiber Backbone Expansion",
                     "details": "Strengthened nationwide fiber-optic infrastructure.",
-                    "impact": "Boosted internet access and digital services."
+                    "impact": "Boosted internet access and digital services.",
+                    "asset": ""
                 },
                 {
                     "category": "Energy",
                     "title": "Electricity Act 2003",
                     "details": "Separated power generation, transmission, and distribution.",
-                    "impact": "Enabled private power plants and improved grid management."
+                    "impact": "Enabled private power plants and improved grid management.",
+                    "asset": ""
                 },
                 {
                     "category": "Energy",
                     "title": "Gas Exploration Expansion",
                     "details": "Brought foreign firms for gas field expansion.",
-                    "impact": "Increased gas supply and reduced load shedding."
+                    "impact": "Increased gas supply and reduced load shedding.",
+                    "asset": ""
                 },
                 {
                     "category": "Infrastructure",
                     "title": "Road & Highway Upgrades",
                     "details": "Built rural roads and upgraded national highways.",
-                    "impact": "Improved logistics and regional connectivity."
+                    "impact": "Improved logistics and regional connectivity.",
+                    "asset": ""
                 },
                 {
                     "category": "Infrastructure",
                     "title": "Port Modernization",
                     "details": "Improved equipment and management of Chittagong Port.",
-                    "impact": "Boosted export efficiency and cargo capacity."
+                    "impact": "Boosted export efficiency and cargo capacity.",
+                    "asset": ""
                 },
                 {
                     "category": "Education",
                     "title": "Female Education Stipends",
                     "details": "Expanded stipends for rural girls and reduced dropouts.",
-                    "impact": "Bangladesh achieved gender parity in schooling."
+                    "impact": "Bangladesh achieved gender parity in schooling.",
+                    "asset": ""
                 },
                 {
                     "category": "Education",
                     "title": "Madrasa Modernization",
                     "details": "Introduced general subjects into madrasa curriculum.",
-                    "impact": "Improved modern skill development in madrasa students."
+                    "impact": "Improved modern skill development in madrasa students.",
+                    "asset": ""
                 },
                 {
                     "category": "Governance",
                     "title": "Anti-Corruption Commission",
                     "details": "Established a legal body to tackle corruption.",
-                    "impact": "First structured effort toward institutional anticorruption."
+                    "impact": "First structured effort toward institutional anticorruption.",
+                    "asset": ""
                 },
                 {
                     "category": "Governance",
                     "title": "Women Reserved Seats Increase",
                     "details": "Raised reserved seats in Parliament from 30 to 45.",
-                    "impact": "Strengthened women's representation in national politics."
+                    "impact": "Strengthened women's representation in national politics.",
+                    "asset": ""
                 },
                 {
                     "category": "Environment and Disaster",
                     "title": "Environmental Protection Enforcement",
                     "details": "Implemented EIA rules and industrial pollution controls.",
-                    "impact": "Improved environmental compliance in factories."
+                    "impact": "Improved environmental compliance in factories.",
+                    "asset": ""
                 },
                 {
                     "category": "Environment and Disaster",
                     "title": "Coastal Cyclone Shelters",
                     "details": "Constructed and modernized shelters across coastal belts.",
-                    "impact": "Saved millions of lives in later cyclones like Sidr and Aila."
+                    "impact": "Saved millions of lives in later cyclones like Sidr and Aila.",
+                    "asset": ""
                 }
             ]
         }
