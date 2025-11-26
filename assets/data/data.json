@@ -3,69 +3,132 @@
         {
             "name": "Ziaur Rahman",
             "period": "1975-1981",
-            "asset": "",
+            "asset": "assets/images/zia.png",
             "policies": [
                 {
                     "category": "Economy",
                     "title": "Industrial Liberalization",
-                    "details": "Shifted Bangladesh from a nationalized economy to a private-sector-driven model.",
+                    "impact_score": 9,
+                    "details": "Ziaur Rahman initiated a fundamental shift in Bangladesh's economic policy by moving away from the socialist, state-controlled model established immediately after independence. He denationalized several state-owned enterprises, returning them to original owners or selling them to private investors to foster efficiency. Investment ceilings were raised, and the stock market was reactivated to encourage capital formation. This policy aimed to create a mixed economy where the private sector could thrive alongside the public sector. Special incentives were provided for foreign direct investment, signaling a welcoming stance to the global market. These reforms were crucial in transitioning the country from a stagnant, aid-dependent economy to one capable of generating internal growth.",
                     "impact": "Kickstarted long-term industrial growth and enabled private sector expansion.",
+                    "impact_points": [
+                        "Revitalized the private sector by returning nationalized industries to private ownership.",
+                        "Attracted foreign investment through tax holidays and simplified regulatory frameworks.",
+                        "Laid the groundwork for the emergence of a new entrepreneurial class in Bangladesh.",
+                        "Shifted the economic trajectory from socialism towards a market-oriented mixed economy."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Economy",
                     "title": "RMG Foundation",
-                    "details": "Enabled Daewoo–Desh partnership and introduced export-led growth policies.",
+                    "impact_score": 10,
+                    "details": "Recognizing the potential of labor-intensive industries, the government actively facilitated a historic partnership between South Korea's Daewoo and the local Desh Garments. This collaboration involved sending 130 Bangladeshi workers and managers to South Korea for intensive technical training, who later became the seed for the entire sector. The government supported this by introducing the 'Back-to-Back LC' system and bonded warehouse facilities, allowing duty-free import of raw materials for export. This policy effectively removed financial barriers for new entrants, democratizing access to the industry. It was a visionary move that identified Bangladesh's comparative advantage in low-cost labor and built a global export ecosystem around it.",
                     "impact": "Created the modern garments sector employing millions today.",
+                    "impact_points": [
+                        "Pioneered the multi-billion dollar Ready-Made Garment (RMG) industry, now the economy's backbone.",
+                        "Facilitated critical technology and skills transfer from South Korea to Bangladesh.",
+                        "Created massive employment opportunities, particularly empowering millions of women.",
+                        "Established the 'Back-to-Back LC' system, solving capital constraints for exporters."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Economy",
                     "title": "Agricultural Deregulation",
-                    "details": "Ended state monopoly over seeds, fertilizers, and agro-equipment.",
+                    "impact_score": 9,
+                    "details": "To combat chronic food shortages, Ziaur Rahman deregulated the agricultural sector by dismantling the state monopoly on inputs like seeds, fertilizers, and irrigation equipment. The Bangladesh Agricultural Development Corporation (BADC) had previously controlled these, often leading to inefficiencies; the new policy allowed private sector importation and distribution. Subsidies were rationalized, and the focus shifted to expanding irrigation coverage through the widespread installation of shallow and deep tube wells. This liberalization was paired with credit support for farmers to adopt high-yielding crop varieties. The move was instrumental in launching the 'Green Revolution' in Bangladesh.",
                     "impact": "Massively increased crop production; supported food security.",
+                    "impact_points": [
+                        "Significantly increased food grain production, moving the country towards food self-sufficiency.",
+                        "Improved access to fertilizers, seeds, and irrigation equipment for ordinary farmers.",
+                        "Reduced bureaucratic red tape and bottlenecks in the distribution of agricultural inputs.",
+                        "Stimulated the rural economy by increasing agricultural yields and farmer incomes."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Governance and Democracy",
                     "title": "Multi-Party Politics Restoration",
-                    "details": "Reintroduced political pluralism after years of one-party structure.",
+                    "impact_score": 8,
+                    "details": "Following the one-party rule of BAKSAL, Ziaur Rahman took steps to restore a multi-party democratic system to legitimize his administration and transition to civilian rule. He lifted the ban on political parties, allowing the Awami League to resume activities and forming his own Bangladesh Nationalist Party (BNP). Restrictions on the press were eased, and parliamentary elections were held in 1979 with the participation of diverse political groups. While the process was carefully managed, it reintroduced political pluralism and debate into the national discourse. It marked a distinct departure from the authoritarianism of the immediate post-1975 period.",
                     "impact": "Revived competitive democratic culture in Bangladesh.",
+                    "impact_points": [
+                        "Ended the one-party BAKSAL system and reintroduced political pluralism.",
+                        "Allowed the Awami League and other parties to resume open political activities.",
+                        "Led to the 1979 general elections, restoring the parliament and civilian processes.",
+                        "Institutionalized the Bangladesh Nationalist Party (BNP) as a major political force."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Governance and Democracy",
                     "title": "Fifth Amendment",
-                    "details": "Legalized all administrative actions taken since 1975.",
+                    "impact_score": 7,
+                    "details": "The Fifth Amendment to the Constitution was a controversial legal maneuver passed in 1979 to ratify all proclamations and actions taken by the military regimes between 1975 and 1979. This amendment effectively indemnified the coup leaders and the military administration from legal scrutiny for that period. It also introduced significant changes to the constitution's preamble, replacing 'secularism' with 'absolute trust and faith in the Almighty Allah' and inserting 'Bismillah-ar-Rahman-ar-Rahim'. These changes altered the fundamental ideological character of the state. While it provided legal stability for the transition to civilian rule, it remained a point of intense legal and political contention.",
                     "impact": "Provided immediate stability but remained historically debated.",
+                    "impact_points": [
+                        "Legitimized the military governments and their actions from 1975 to 1979.",
+                        "Altered the constitution to replace secularism with Islamic principles in the preamble.",
+                        "Provided the legal basis for the transition from martial law to a civilian government.",
+                        "Remained a subject of long-term legal battles, eventually being declared illegal in 2010."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Governance and Democracy",
                     "title": "Local Government Strengthening",
-                    "details": "Empowered Union Parishads and decentralized decision-making.",
+                    "impact_score": 7,
+                    "details": "Believing that development must start from the grassroots, Ziaur Rahman introduced the 'Gram Sarkar' (Village Government) concept to decentralize power. Elections were held for local bodies to ensure representative leadership at the village level, empowering Union Parishads with more authority. These bodies were given resources to manage local issues such as dispute resolution, family planning, and adult education. The initiative was designed to bridge the gap between the urban center and the rural periphery. It aimed to create a self-reliant village structure that could drive national development from the bottom up.",
                     "impact": "Improved rural governance and service delivery.",
+                    "impact_points": [
+                        "Empowered rural communities through the 'Gram Sarkar' (Village Government) system.",
+                        "Decentralized administrative power, bringing governance closer to the people.",
+                        "Mobilized local resources for rural development projects like road building.",
+                        "Created a new tier of local leadership and administration loyal to the state."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Foreign Policy",
                     "title": "Look East Doctrine",
-                    "details": "Strengthened ties with China, Pakistan, Southeast Asia, and OIC.",
+                    "impact_score": 8,
+                    "details": "Ziaur Rahman shifted Bangladesh's foreign policy focus away from the Indo-Soviet axis towards building stronger ties with the Islamic world, the West, and specifically East Asia. The 'Look East' policy aimed to emulate the economic success stories of countries like Japan, South Korea, and Malaysia. He sought to diversify Bangladesh's diplomatic and economic partnerships to reduce vulnerability and dependence on any single neighbor. This involved seeking development aid, trade, and technical cooperation from these emerging Asian tigers. The policy also included strengthening regional cooperation, which eventually sowed the seeds for SAARC.",
                     "impact": "Diversified Bangladesh's geopolitical partnerships.",
+                    "impact_points": [
+                        "Diversified Bangladesh's foreign relations beyond the Indo-Soviet sphere.",
+                        "Secured crucial economic and technical assistance from Japan and South Korea.",
+                        "Laid the groundwork for the formation of SAARC (South Asian Association for Regional Cooperation).",
+                        "Enhanced Bangladesh's diplomatic standing among Muslim-majority nations and Western powers."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Foreign Policy",
                     "title": "UN Peacekeeping Foundations",
-                    "details": "Established the early institutional framework for future deployment.",
+                    "impact_score": 7,
+                    "details": "Ziaur Rahman recognized the potential for Bangladesh's military to play a constructive role on the global stage, initiating the country's involvement in United Nations Peacekeeping. Although large-scale deployment happened later, the policy framework and diplomatic willingness to contribute troops were established during his tenure. He actively engaged with the UN to position Bangladesh as a responsible, neutral state committed to global peace. This policy was part of a broader strategy to professionalize the armed forces and give them a prestigious international mission. It helped improve the military's image and provided valuable international exposure.",
                     "impact": "Enabled Bangladesh to become a leading UN peacekeeping force.",
+                    "impact_points": [
+                        "Initiated Bangladesh's commitment to global peace and security under the UN umbrella.",
+                        "Opened a new avenue for professional development and international exposure for the armed forces.",
+                        "Enhanced Bangladesh's soft power and diplomatic reputation globally.",
+                        "Created a significant source of foreign currency earnings through troop reimbursements."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Rural Development",
                     "title": "Integrated Rural Development Program",
-                    "details": "Built canals, irrigation systems, rural roads, and embankments.",
+                    "impact_score": 8,
+                    "details": "A signature program was the massive voluntary canal digging initiative, part of the Integrated Rural Development Program. Ziaur Rahman personally participated in and mobilized the public for voluntary labor to re-excavate silted canals and build embankments. The primary goal was to improve irrigation for agriculture during the dry season and control floods during the monsoon. This program was a political mobilization tool to instill a sense of patriotism and self-help ('Swanirvar') among the rural population. It aimed to double food production by ensuring water availability for dry-season crops.",
                     "impact": "Boosted rural productivity and incomes significantly.",
+                    "impact_points": [
+                        "Mobilized millions of citizens for voluntary infrastructure development.",
+                        "Re-excavated thousands of miles of canals, improving irrigation and flood control.",
+                        "Directly contributed to increased agricultural output by enabling dry-season farming.",
+                        "Fostered a sense of national unity and self-reliance in rural areas."
+                    ],
                     "asset": ""
                 }
             ]
@@ -73,76 +136,136 @@
         {
             "name": "Khaleda Zia",
             "period": "1991-1996",
-            "asset": "",
+            "asset": "assets/images/kh1.png",
             "policies": [
                 {
                     "category": "Economy",
                     "title": "Macro Stabilization",
-                    "details": "Implemented banking reforms and deficit reduction.",
+                    "impact_score": 8,
+                    "details": "Upon assuming office, the government initiated comprehensive macroeconomic reforms to transition Bangladesh towards a market economy. A landmark achievement was the introduction of the Value Added Tax (VAT) in 1991, which replaced the antiquated sales tax system to widen the tax base and increase domestic revenue. Simultaneously, the Financial Sector Reform Project (FSRP) was launched to deregulate interest rates, enforce stricter loan classification standards, and strengthen the regulatory power of the Bangladesh Bank. These measures were designed to restore fiscal discipline and encourage private investment.",
                     "impact": "Restored economic stability after political transition.",
+                    "impact_points": [
+                        "Significantly boosted government revenue collection through the structural shift to VAT.",
+                        "Moved the banking sector from state-controlled rates to market-driven interest rates.",
+                        "Established a framework for fiscal stability that reduced dependence on foreign aid."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Economy",
                     "title": "Privatization Push",
-                    "details": "Privatized loss-making SOEs and encouraged private banking.",
+                    "impact_score": 7,
+                    "details": "To reduce the fiscal burden of loss-making State-Owned Enterprises (SOEs), the government adopted an aggressive privatization policy. The Privatization Board was established in 1993 to systematically manage the divestment of state assets. The administration initiated the denationalization of major sectors, returning jute and textile mills to private owners and encouraging private sector industrialization. This shift marked a departure from the socialist-leaning policies of the past, aiming to improve industrial efficiency.",
                     "impact": "Improved efficiency and increased investment.",
+                    "impact_points": [
+                        "Institutionalized the privatization process through the creation of the Privatization Board.",
+                        "Reduced the government's financial drain caused by subsidizing non-performing SOEs.",
+                        "Signaled a strong commitment to a free-market economy, attracting initial foreign interest."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Education",
                     "title": "Private University Act 1992",
-                    "details": "Allowed establishment of private universities.",
+                    "impact_score": 9,
+                    "details": "Facing a crisis of capacity and frequent session jams in public universities, the government enacted the Private University Act in 1992. This groundbreaking legislation broke the state's monopoly on higher education, allowing the establishment of non-profit private universities. The move was intended to meet the growing demand for higher education, modernize curricula to match market needs, and stem the flow of students going abroad for studies. It paved the way for the first generation of private universities in Bangladesh.",
                     "impact": "Massive expansion of higher education nationwide.",
+                    "impact_points": [
+                        "Ended the state monopoly on higher education, leading to the founding of institutions like NSU and IUB.",
+                        "Helped reduce session jams by providing alternative, timely graduation pathways.",
+                        "Modernized higher education curricula with a focus on business and technology."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Education",
                     "title": "National University Establishment",
-                    "details": "Centralized governance of affiliated colleges.",
+                    "impact_score": 7,
+                    "details": "In 1992, the government passed the National University Act to separate the administration of degree colleges from public universities like Dhaka, Chittagong, and Rajshahi Universities. The National University was established as an affiliating body to govern curricula, examinations, and degrees for colleges across the country. This structural change was executed to relieve the immense administrative pressure on public universities and to standardize the quality of education at the college level nationwide.",
                     "impact": "Improved academic standardization across Bangladesh.",
+                    "impact_points": [
+                        "Relieved major public universities of the administrative burden of managing hundreds of colleges.",
+                        "Centralized and standardized the examination and syllabus system for degree colleges.",
+                        "Created the largest university in the country by student enrollment."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Energy and Electrification",
                     "title": "National Energy Policy 1996",
-                    "details": "Bangladesh's first structured long-term energy roadmap.",
+                    "impact_score": 8,
+                    "details": "Recognizing the critical link between energy and development, the government formulated the first comprehensive National Energy Policy (NEP), adopted in 1996. This policy provided a strategic framework for the exploration, production, and distribution of oil, gas, and power. Crucially, it opened the power generation sector to private investment, laying the groundwork for Independent Power Producers (IPPs). The policy emphasized the use of indigenous natural gas resources and set targets for rural electrification.",
                     "impact": "Guided future gas, power plants, and grid expansion.",
+                    "impact_points": [
+                        "Provided the first comprehensive roadmap for the country's energy security.",
+                        "Opened the power sector to private investment, ending the state monopoly on generation.",
+                        "Prioritized the utilization of domestic natural gas for industrial and power generation."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Energy and Electrification",
                     "title": "Rural Electrification Expansion",
-                    "details": "Strengthened REB cooperatives and improved distribution.",
+                    "impact_score": 8,
+                    "details": "The government prioritized the expansion of the Rural Electrification Board (REB) activities to take electricity to remote villages. By strengthening Palli Bidyut Samitis (PBS), the administration accelerated the connection of rural households and irrigation pumps to the grid. This initiative was not just about lighting homes but was a core economic strategy to boost agricultural productivity through electric irrigation and to foster rural small-scale industries.",
                     "impact": "Millions of households got electricity access.",
+                    "impact_points": [
+                        "Drastically increased the number of rural households with access to electricity.",
+                        "Boosted agricultural output by facilitating electric irrigation pumps.",
+                        "Stimulated the growth of rural cottage industries and commercial activities."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Infrastructure",
                     "title": "Roads and Bridges Development",
-                    "details": "Expanded national highways and initiated major bridge groundwork.",
+                    "impact_score": 9,
+                    "details": "A major focus was placed on physical infrastructure to connect the northern and western parts of the country with the capital. The most significant undertaking was the commencement of the Jamuna Multipurpose Bridge (Bangabandhu Bridge). The government secured complex funding arrangements with international donors and started construction in 1994. Additionally, the Local Government Engineering Department (LGED) was empowered to build an extensive network of rural feeder roads, linking villages to markets.",
                     "impact": "Strengthened trade routes and boosted rural mobility.",
+                    "impact_points": [
+                        "Initiated the physical construction of the Jamuna Bridge, ending the isolation of North Bengal.",
+                        "Expanded the rural road network, significantly improving market access for farmers.",
+                        "Enhanced national integration by reducing travel time between major districts."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Media and Communication",
                     "title": "Private TV Channel Framework",
-                    "details": "Prepared regulatory framework for private TV channels.",
+                    "impact_score": 7,
+                    "details": "While the terrestrial broadcasting remained state-controlled, the government adopted an 'Open Skies' policy regarding satellite television. This framework allowed the importation and use of satellite dish antennas, bringing international channels like CNN and BBC to Bangladeshi households for the first time. This effectively ended the information monopoly of the state-run BTV and exposed the public to global media and diverse perspectives, laying the cultural groundwork for the future private television boom.",
                     "impact": "Opened the door for Bangladesh's media revolution.",
+                    "impact_points": [
+                        "Ended the state's monopoly on information by allowing access to international satellite channels.",
+                        "Spurred the growth of the cable TV industry and local cable operators.",
+                        "Connected the Bangladeshi public with global news and cultural trends."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Governance",
                     "title": "Twelfth Amendment 1991",
-                    "details": "Restored parliamentary system of governance.",
+                    "impact_score": 10,
+                    "details": "Fulfilling a key election pledge and a national consensus post-autocracy, the government passed the Twelfth Amendment to the Constitution in 1991. This historic legislation reverted the system of government from a Presidential to a Parliamentary form. It made the Prime Minister the executive head of the government and the cabinet collectively responsible to the Parliament. The amendment was ratified by a national referendum, formally institutionalizing parliamentary democracy in Bangladesh.",
                     "impact": "Strengthened democratic institutions and accountability.",
+                    "impact_points": [
+                        "Restored parliamentary democracy, making the executive branch accountable to the legislature.",
+                        "Transformed the Presidency into a titular, ceremonial role.",
+                        "Established the supremacy of the Parliament in the governance structure."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Disaster Management",
                     "title": "1991 Cyclone Rehabilitation",
-                    "details": "Large-scale reconstruction and relief operations.",
+                    "impact_score": 8,
+                    "details": "Following the catastrophic cyclone of April 1991, the government launched a massive relief and rehabilitation effort known as 'Operation Sea Angel' in coordination with the US military and international NGOs. The administration focused on rapid deployment of aid, preventing post-disaster epidemics, and rebuilding coastal infrastructure. The response involved constructing multipurpose cyclone shelters and implementing a new disaster warning system, which became a model for future disaster management.",
                     "impact": "Improved Bangladesh's disaster response capacity.",
+                    "impact_points": [
+                        "Successfully prevented a major post-disaster famine and epidemic outbreak.",
+                        "Established a model for civil-military and international cooperation in disaster relief.",
+                        "Initiated the construction of a network of coastal cyclone shelters to save lives in future storms."
+                    ],
                     "asset": ""
                 }
             ]
@@ -150,111 +273,216 @@
         {
             "name": "Khaleda Zia",
             "period": "2001-2006",
-            "asset": "",
+            "asset": "assets/images/kh2.png",
             "policies": [
                 {
                     "category": "Economy",
                     "title": "High Growth Era",
-                    "details": "Bangladesh maintained 6%+ GDP growth.",
+                    "impact_score": 9,
+                    "details": "The 2001-2006 period marked a significant shift in Bangladesh's economic trajectory, characterized by macroeconomic stability and accelerated growth. GDP growth rates consistently rose, reaching nearly 6.7% by the end of the term, driven by strong industrial performance and service sector expansion. The administration implemented prudent fiscal policies that kept inflation relatively checked while fostering private investment. This era laid the groundwork for Bangladesh's transition from a low-income to a lower-middle-income country. Export earnings, particularly from the ready-made garment sector, saw robust growth despite global challenges. The government also maintained a stable exchange rate policy, which encouraged remittances and foreign trade.",
                     "impact": "Built economic momentum for the next decade.",
+                    "impact_points": [
+                        "Achieved a consistent GDP growth rate averaging over 5-6% annually.",
+                        "Boosted foreign exchange reserves significantly.",
+                        "Strengthened the export-oriented manufacturing base.",
+                        "Maintained macroeconomic stability despite external shocks."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Economy",
                     "title": "SME & Farm Credit Expansion",
-                    "details": "Increased microcredit, SME loans, and rural finance.",
+                    "impact_score": 7,
+                    "details": "Recognizing the importance of the rural economy, the government prioritized credit access for Small and Medium Enterprises (SMEs) and the agricultural sector. Policies were directed towards state-owned banks to allocate specific quotas for agricultural loans to ensure food security. Special refinancing schemes were introduced to support small entrepreneurs who previously lacked access to formal banking. The administration emphasized crop diversification and provided financial support for agro-processing industries. These measures were aimed at generating employment in rural areas and reducing urban migration.",
                     "impact": "Boosted rural entrepreneurship and women's income.",
+                    "impact_points": [
+                        "Increased liquidity and credit flow to the rural agricultural sector.",
+                        "Stimulated the growth of cottage and small industries.",
+                        "Enhanced food production through timely availability of farm loans.",
+                        "Empowered rural entrepreneurs and reduced poverty levels."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "ICT and Digitalization",
                     "title": "National ICT Policy 2002",
-                    "details": "First comprehensive ICT roadmap for Bangladesh.",
+                    "impact_score": 8,
+                    "details": "The National ICT Policy 2002 was a landmark framework designed to build an ICT-driven nation and knowledge-based society. It outlined a comprehensive strategy for developing the software industry, expanding hardware manufacturing, and promoting e-governance. The policy aimed to utilize ICT as a tool for export diversification and employment generation for the youth. It established the basis for the subsequent boom in the IT sector by offering tax holidays and incentives for tech companies. This policy is often cited as the foundational blueprint for the later 'Digital Bangladesh' vision.",
                     "impact": "Laid foundation for later Digital Bangladesh programs.",
+                    "impact_points": [
+                        "Laid the formal regulatory foundation for the IT sector's growth.",
+                        "Encouraged software exports and IT-enabled services.",
+                        "Promoted computer literacy and IT education in institutions.",
+                        "Initiated early steps towards e-governance and digital services."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "ICT and Digitalization",
                     "title": "Telecom Liberalization",
-                    "details": "Expanded mobile operator licenses and reduced call costs.",
+                    "impact_score": 10,
+                    "details": "The government aggressively pursued the liberalization of the telecommunications sector, breaking the state monopoly of the BTTB. This policy facilitated the rapid expansion of mobile telephony by allowing private operators to expand their networks and services. It led to a massive reduction in SIM card prices and call rates, making mobile phones accessible to the common masses. The Bangladesh Telecommunication Regulatory Commission (BTRC) was strengthened to regulate the competitive market. This revolution in connectivity transformed business communications and social interaction across the country.",
                     "impact": "Triggered a telecom explosion across Bangladesh.",
+                    "impact_points": [
+                        "Drastically reduced the cost of mobile connections and call rates.",
+                        "Exponentially increased mobile phone penetration in rural areas.",
+                        "Created a competitive telecom market with multiple private players.",
+                        "Revolutionized communication for business and personal use."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "ICT and Digitalization",
                     "title": "National Fiber Backbone Expansion",
-                    "details": "Strengthened nationwide fiber-optic infrastructure.",
+                    "impact_score": 7,
+                    "details": "To support the growing demand for data and connectivity, the administration initiated the expansion of the national optical fiber backbone. This infrastructure project aimed to connect major districts and cities with high-speed data transmission capabilities. It involved laying fiber optic cables along railway lines and power grids to reach underserved areas. The expansion was crucial for the internet service providers (ISPs) to offer broadband services outside the capital. This backbone became the critical infrastructure for the country's future internet connectivity and data network.",
                     "impact": "Boosted internet access and digital services.",
+                    "impact_points": [
+                        "Extended high-speed data connectivity to district levels.",
+                        "Facilitated the growth of internet services nationwide.",
+                        "Reduced the digital divide between urban and rural areas.",
+                        "Provided the physical infrastructure for future broadband expansion."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Energy",
                     "title": "Electricity Act 2003",
-                    "details": "Separated power generation, transmission, and distribution.",
+                    "impact_score": 8,
+                    "details": "The Electricity Act 2003 was a major legislative reform aimed at restructuring and modernizing the power sector. It paved the way for the separation of power generation, transmission, and distribution to improve efficiency and accountability. The Act established the Bangladesh Energy Regulatory Commission (BERC) as an independent body to regulate tariffs and protect consumer interests. It also encouraged private sector participation in power generation (IPPs) to bridge the demand-supply gap. This legal framework was essential for attracting foreign direct investment into the energy sector.",
                     "impact": "Enabled private power plants and improved grid management.",
+                    "impact_points": [
+                        "Established the Bangladesh Energy Regulatory Commission (BERC).",
+                        "Encouraged private investment in power generation (IPPs).",
+                        "Initiated the unbundling of the power sector for better management.",
+                        "Created a transparent legal framework for energy regulation."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Energy",
                     "title": "Gas Exploration Expansion",
-                    "details": "Brought foreign firms for gas field expansion.",
+                    "impact_score": 7,
+                    "details": "The government intensified efforts to explore and utilize the country's natural gas resources to fuel industrial growth. New production sharing contracts (PSCs) were reviewed and signed with international oil companies to accelerate exploration in offshore and onshore blocks. This period saw the discovery and development of new gas fields, which significantly added to the national grid. The increased gas supply was critical for power plants, fertilizer factories, and industrial zones. Strategic emphasis was placed on ensuring energy security for the growing manufacturing sector.",
                     "impact": "Increased gas supply and reduced load shedding.",
+                    "impact_points": [
+                        "Increased national gas production capacity.",
+                        "Supported the energy needs of the growing industrial sector.",
+                        "Attracted international investment in the energy sector.",
+                        "Discovered new gas fields to boost reserves."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Infrastructure",
                     "title": "Road & Highway Upgrades",
-                    "details": "Built rural roads and upgraded national highways.",
+                    "impact_score": 8,
+                    "details": "A massive infrastructure development drive was undertaken to upgrade national highways and regional roads. The focus was on improving connectivity between Dhaka and major port cities, as well as northern districts. Projects included widening existing highways, constructing new bridges, and repairing dilapidated roads to facilitate trade and transport. The construction of the Tongi-Bhairab road and improvements to the Dhaka-Chittagong highway were key highlights. These upgrades significantly reduced travel time and transport costs for goods and passengers.",
                     "impact": "Improved logistics and regional connectivity.",
+                    "impact_points": [
+                        "Improved connectivity between the capital and key districts.",
+                        "Reduced travel time and transportation costs for commerce.",
+                        "Facilitated smoother movement of export-import goods.",
+                        "Enhanced regional trade through better road networks."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Infrastructure",
                     "title": "Port Modernization",
-                    "details": "Improved equipment and management of Chittagong Port.",
+                    "impact_score": 8,
+                    "details": "Efforts were made to modernize the Chittagong Port, the lifeline of Bangladesh's economy, to handle increasing trade volumes. The government introduced automation in customs and port handling procedures to reduce congestion and turnaround time. Steps were taken to involve private operators in terminal management to improve efficiency. Security measures were upgraded to comply with international maritime standards. These reforms aimed to facilitate the booming garment export sector by ensuring smoother logistics.",
                     "impact": "Boosted export efficiency and cargo capacity.",
+                    "impact_points": [
+                        "Reduced container turnaround time at Chittagong Port.",
+                        "Increased the port's cargo handling capacity.",
+                        "Streamlined customs procedures through partial automation.",
+                        "Supported the rapid growth of the RMG export sector."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Education",
                     "title": "Female Education Stipends",
-                    "details": "Expanded stipends for rural girls and reduced dropouts.",
+                    "impact_score": 9,
+                    "details": "Building on previous successes, the government significantly expanded the Female Secondary School Stipend Project (FSSSP). This policy provided tuition waivers and monthly stipends to girls in rural areas, conditional on their attendance and remaining unmarried until age 18. The program was instrumental in achieving gender parity in secondary education, a rare feat for a developing nation. It not only increased enrollment but also empowered women socially and economically. The initiative is globally recognized as a model for promoting female education.",
                     "impact": "Bangladesh achieved gender parity in schooling.",
+                    "impact_points": [
+                        "Achieved gender parity in secondary school enrollment.",
+                        "Significantly reduced dropout rates among rural girls.",
+                        "Delayed early marriage and empowered young women.",
+                        "Created a generation of educated female workforce entrants."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Education",
                     "title": "Madrasa Modernization",
-                    "details": "Introduced general subjects into madrasa curriculum.",
+                    "impact_score": 6,
+                    "details": "The administration took steps to modernize the Madrasa education system to integrate it with the mainstream workforce. This included recognizing the Dawrah-e-Hadith degree as equivalent to a master's degree in Islamic Studies and Arabic. The curriculum was updated to include science, mathematics, and English alongside religious studies. Vocational training programs were introduced in some Madrasas to equip students with practical skills. These reforms aimed to ensure that Madrasa graduates had better employment opportunities and could contribute to the national economy.",
                     "impact": "Improved modern skill development in madrasa students.",
+                    "impact_points": [
+                        "Integrated Madrasa students into the mainstream economy.",
+                        "Introduced modern subjects like science and English to the curriculum.",
+                        "Enhanced employability of Madrasa graduates.",
+                        "Bridged the gap between secular and religious education systems."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Governance",
                     "title": "Anti-Corruption Commission",
-                    "details": "Established a legal body to tackle corruption.",
+                    "impact_score": 7,
+                    "details": "In a major institutional reform, the government enacted the Anti-Corruption Commission Act 2004, establishing an independent Anti-Corruption Commission (ACC). This body replaced the defunct Bureau of Anti-Corruption to provide a more powerful and neutral agency for combating graft. The ACC was empowered to investigate and prosecute corruption cases without direct government interference. Although it faced initial operational challenges, its creation marked a structural shift towards institutionalizing the fight against corruption. It was a response to both domestic demand and international donor requirements for better governance.",
                     "impact": "First structured effort toward institutional anticorruption.",
+                    "impact_points": [
+                        "Created an independent statutory body to fight corruption.",
+                        "Replaced the ineffective Bureau of Anti-Corruption.",
+                        "Institutionalized the legal framework for anti-graft activities.",
+                        "Signaled a commitment to improving governance and accountability."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Governance",
                     "title": "Women Reserved Seats Increase",
-                    "details": "Raised reserved seats in Parliament from 30 to 45.",
+                    "impact_score": 6,
+                    "details": "Through the 14th Amendment to the Constitution in 2004, the government increased the number of reserved seats for women in the National Parliament. The number was raised from 30 to 45, aiming to enhance female political representation. This move was designed to ensure that women's voices were better heard in the legislative process. While the method of selection (proportional representation) was debated, the increase in numbers was a step towards greater political empowerment for women. It reflected the state's commitment to gender equity in governance.",
                     "impact": "Strengthened women's representation in national politics.",
+                    "impact_points": [
+                        "Increased reserved parliamentary seats for women to 45.",
+                        "Enhanced female representation in the national legislature.",
+                        "Promoted women's participation in national politics.",
+                        "Strengthened the constitutional commitment to gender equity."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Environment and Disaster",
                     "title": "Environmental Protection Enforcement",
-                    "details": "Implemented EIA rules and industrial pollution controls.",
+                    "impact_score": 8,
+                    "details": "The government took bold steps to enforce environmental protection, most notably with the complete ban on polythene shopping bags in 2002. This was a pioneering move globally to address drainage clogging and soil pollution. Additionally, the administration mandated the conversion of commercial vehicles to Compressed Natural Gas (CNG) to combat air pollution in Dhaka. These policies were enforced strictly with mobile courts and fines. The measures resulted in a visible improvement in the urban environment and air quality.",
                     "impact": "Improved environmental compliance in factories.",
+                    "impact_points": [
+                        "Successfully banned polythene bags, reducing drainage clogging.",
+                        "Reduced urban air pollution through CNG vehicle conversion.",
+                        "Set a global precedent for plastic control legislation.",
+                        "Improved public health by lowering lead and particulate emissions."
+                    ],
                     "asset": ""
                 },
                 {
                     "category": "Environment and Disaster",
                     "title": "Coastal Cyclone Shelters",
-                    "details": "Constructed and modernized shelters across coastal belts.",
+                    "impact_score": 9,
+                    "details": "Prioritizing disaster management, the government invested heavily in constructing and renovating multipurpose cyclone shelters in coastal districts. These shelters were designed to serve as schools or community centers during normal times and safe havens during natural disasters. The initiative was part of a broader strategy to reduce casualties from cyclones and storm surges. Coupled with an improved early warning system, this infrastructure development significantly lowered the death toll in subsequent storms. It demonstrated a proactive approach to climate adaptation and disaster risk reduction.",
                     "impact": "Saved millions of lives in later cyclones like Sidr and Aila.",
+                    "impact_points": [
+                        "Saved thousands of lives during natural disasters.",
+                        "Provided dual-use infrastructure (schools/shelters) for communities.",
+                        "Strengthened the coastal disaster management network.",
+                        "Reduced vulnerability of coastal populations to cyclones."
+                    ],
                     "asset": ""
                 }
             ]
